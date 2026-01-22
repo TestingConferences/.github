@@ -1,3 +1,3 @@
-## Hi there, we're Testing Conferences 👋
+## Hi there 👋
 
-An open source list of Software Testing Conferences and Workshops published collaboratively with the global testing community. 
+This is an open source list of Software Testing Conferences and Workshops published collaboratively with the global testing community. 
